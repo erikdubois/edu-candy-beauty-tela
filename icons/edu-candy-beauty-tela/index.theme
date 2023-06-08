@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Edu Candy Beauty Tela
 Comment=Flat and colorful personality icon theme + Tela folder icons
-Inherits=arcolinux-candy-beauty
+Inherits=a-candy-beauty-icon-theme
 Example=folder
 
 # KDE/Plasma Stuff
