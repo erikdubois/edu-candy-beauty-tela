@@ -1,4 +1,4 @@
-# Edu-Candy-Beauty-Tela
+# edu-neo-candy-tela
 
 Learn, have fun and enjoy.
 
